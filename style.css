@@ -1,0 +1,61 @@
+
+.containar-one{
+    display: flex;
+}
+.span-one{
+    color:red;
+}
+.button-one{
+background-color: red;
+color: white;
+padding: 10px;
+cursor: pointer;
+}
+.in-one-div{
+    margin-left: 50px;
+}
+.span-two{
+    color: red;
+
+}
+.h1-two{
+    text-align: center;
+}
+.containar-two{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+}
+.div-two-1{
+    background-color: rgb(144, 180, 180);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.div-two-2{
+background-color: rgb(212, 182, 142);
+margin: 10px;
+padding: 20px;
+border-radius: 10px;
+cursor: pointer;
+}
+.div-two-3{
+background-color: rgb(169, 233, 233);
+margin: 10px;
+padding: 20px;
+border-radius: 10px;
+cursor: pointer;
+}
+.footer{
+    background-color: black;
+}
+.footer-div{
+    text-align: center;
+    color: white;
+}
+.span-footer{
+    color: red;
+}
